@@ -35,17 +35,17 @@ Point your camera at a prescription, and MedScheduler reads it, extracts the med
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/300x550/0f172a/38bdf8?text=Scan+Prescription" width="260" /><br />
+      <img src="Screenshot 2026-07-05 192347.png" width="260" /><br />
       <b>1. Scan a Prescription</b><br />
       <sub>Use your camera to capture the prescription</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/300x550/0f172a/38bdf8?text=AI+Extraction" width="260" /><br />
+      <img src="Screenshot 2026-07-05 192900.png" width="260" /><br />
       <b>2. AI Extracts the Details</b><br />
       <sub>Gemini reads medicine names, dosage & timing</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/300x550/0f172a/38bdf8?text=Auto+Schedule" width="260" /><br />
+      <img src="Screenshot 2026-07-05 192414.png" width="260" /><br />
       <b>3. Get Your Schedule</b><br />
       <sub>An automated reminder schedule, ready to go</sub>
     </td>
