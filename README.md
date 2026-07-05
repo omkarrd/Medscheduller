@@ -14,7 +14,7 @@
 <br />
 
 <!-- 🖼️ MAIN DEMO SCREENSHOT — replace this with a real screenshot or GIF of your app's home screen -->
-<img src="https://drive.google.com/file/d/1LnJ_dzQU8ZaklRPFBumdGNVu7oFKVbnb/view?usp=sharing" alt="MedScheduler Home Screen" width="850" />
+<img src="Screenshot 2026-07-05 193903.png" alt="MedScheduler Home Screen" width="850" />
 
 </div>
 
