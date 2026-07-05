@@ -1,0 +1,6 @@
+{
+  "name": "Medscheduler | Neural Vitality",
+  "description": "A futuristic AI-powered medical interface for prescription scanning and automated medication scheduling.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
