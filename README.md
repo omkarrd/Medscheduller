@@ -35,7 +35,7 @@ Point your camera at a prescription, and MedScheduler reads it, extracts the med
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="Screenshot 2026-07-05 192347.png" width="260" /><br />
+      <img src="Screenshot 2026-07-05 192805.png" width="260" /><br />
       <b>1. Scan a Prescription</b><br />
       <sub>Use your camera to capture the prescription</sub>
     </td>
